@@ -1,3 +1,5 @@
+# Variables
+
 nombre = "Andres"
 apellido = "Gonzalez"
 edad = 27

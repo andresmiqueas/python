@@ -1,4 +1,4 @@
-# Tuplas -- conjuunto de valores
+# Tuplas -- Conjuunto de valores similares a listas pero no se pueden modificar
 
 
 my_tuple = tuple()
