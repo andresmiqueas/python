@@ -1,7 +1,7 @@
 # Sets
 
 # No es una estructura ordenada
-# No admite elemento repetidos
+# No admite elementos repetidos
 
 
 
