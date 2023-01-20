@@ -18,3 +18,9 @@ my_dict ["Calle"] = "Brandsen"
 print("Nombre" in my_dict)
 print(my_dict["Edad"]) 
 
+my_list=["Nombre", 1, "Piso"]
+
+my_mew_dict = dict.fromkeys((my_list))
+print(my_mew_dict)
+my_mew_dict = dict.fromkeys(my_dict, ("Andres", "Gonzalez"))
+print(my_mew_dict)
